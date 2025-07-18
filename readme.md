@@ -53,8 +53,6 @@ Modified Firmware: <a href="https://github.com/jobitjoseph/retro-go-ST7789">retr
 
 ### 2. Flashing the Firmware
 
-- Use [ESP32 Arduino](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html) or [PlatformIO](https://platformio.org/) to compile and flash the firmware to your ESP32.
-- Make sure to select the correct board and set the flash mode to QIO/DIO if using a WROVER module.
 - Connect your ESP32 to your PC via USB and upload as usual.
 
 ### 3. Usage & Controls
