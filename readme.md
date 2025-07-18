@@ -7,6 +7,7 @@
 RetroESP is a compact handheld retro game console powered by the ESP32. Inspired by classic handhelds, RetroESP brings NES, Gameboy, and other retro gaming experiences to a tiny, affordable platform. It features a pixel display, hardware buttons, and a simple user interface for browsing and launching games.
 
 Original Project: <a href="https://github.com/Circuit-Digest/ESP32-Retro-Game-Console">ESP32-Retro-Game-Console</a>
+
 Modified Firmware: <a href="https://github.com/jobitjoseph/retro-go-ST7789">retro-go-ST7789</a>
 
 ## Features
