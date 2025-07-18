@@ -1,3 +1,7 @@
+<div align=center>
+  <img src="https://github.com/Darkone83/RetroESP/blob/main/images/Logo.png" width=200 height=200> <img src="https://github.com/Darkone83/RetroESP/blob/main/images/DC%20logo.png">
+</div>
+
 # RetroESP: ESP32-Based Retro Game Console
 
 RetroESP is a compact handheld retro game console powered by the ESP32. Inspired by classic handhelds, RetroESP brings NES, Gameboy, and other retro gaming experiences to a tiny, affordable platform. It features a pixel display, hardware buttons, and a simple user interface for browsing and launching games.
@@ -96,6 +100,10 @@ Special thanks to all contributors and maintainers of these and related open-sou
 - This project is for educational and personal use only.
 
 ---
+
+<div align=center>
+  <img src="https://github.com/Darkone83/RetroESP/blob/main/images/logo2.png" height=200 width=200> <img src="https://github.com/Darkone83/RetroESP/blob/main/images/Victory.png" width=200 height=200">
+</div>
 
 **Enjoy retro gaming on your ESP32!**
 
