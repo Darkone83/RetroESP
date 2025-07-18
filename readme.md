@@ -17,11 +17,12 @@ RetroESP is a compact handheld retro game console powered by the ESP32. Inspired
 
 ## Hardware Overview
 
-- **Microcontroller:** ESP32 (WROOM or WROVER module)
-- **Display:** 1.3" or 1.54" ST7789 SPI TFT LCD
+- **Microcontroller:** ESP32 WROOM E Devkit C V4
+- **Display:** 2.4 inch ST7789 SPI TFT LCD
 - **Controls:** Tactile buttons for D-Pad and A/B/Start/Select
 - **Storage:** microSD card for game ROMs, BIOS, and save files
 - **Power:** LiPo battery or USB
+- **Audio:** Built-in speaker or headphones
 
 ## Usage
 
