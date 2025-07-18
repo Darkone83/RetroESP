@@ -35,11 +35,14 @@ RetroESP is a compact handheld retro game console powered by the ESP32. Inspired
     - `/roms/nes/` (NES)
     - `/roms/sms/` (Sega Master System)
     - `/roms/gg/` (Game Gear)
+    - **etc**
 
 - **BIOS Files:**  
   Some emulators require BIOS files. Place them in `/bios/` on the SD card.  
   Example:
     - `/bios/gb_bios.bin` (GameBoy)
+    - `/bios/gbc_bios.bin` (GameBoy Color)
+    - `/bios/fds_bios.bin` (Famicom Disk System)
 
 - **Launcher Images:**  
   You can add `.png` images in `/launcher/images` to display custom thumbnails in the launcher menu.
